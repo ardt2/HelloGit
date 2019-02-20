@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{141AE38D-A328-4FDF-B8E5-746BA9941897}</ProjectGuid>
+    <ProjectGuid>{2C643203-CFDB-423C-BF2E-71CA33120FF2}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>HelloGit</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
